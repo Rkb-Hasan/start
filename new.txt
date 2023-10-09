@@ -4,3 +4,4 @@ local change
 
 local change 2
 remote change 1
+local branch 2 change
