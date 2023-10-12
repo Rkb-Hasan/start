@@ -4,5 +4,5 @@ local change
 
 local change 2
 remote change 1
-master change
+feature change
 
