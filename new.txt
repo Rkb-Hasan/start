@@ -4,4 +4,10 @@ local change
 
 local change 2
 remote change 1
+<<<<<<< HEAD
 local branch 2 change
+=======
+local branch 2 chnge
+
+after merge conflict solved in branch 2
+>>>>>>> branch2
